@@ -26,3 +26,4 @@ user-agents==2.2.0
 
 # Development dependencies
 Flask-Testing==0.8.1
+django>=4.2.16 # not directly required, pinned by Snyk to avoid a vulnerability
